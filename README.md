@@ -22,6 +22,8 @@ Although many tutorials exist for the Julia programming language, none have the 
 Links to tuktorial sections:
 
 Part 1: Setup
-  [Installing and Using Julia]
+
+[Installing and Using Julia](https://github.com/dougfrey/Julia_tutorials_for_ChEs/blob/main/Part%201%3A%20Setup/Installing_and_Using_Julia.md)
+  
   [Installing and using Jupyter]
 Part 2: Background Information
