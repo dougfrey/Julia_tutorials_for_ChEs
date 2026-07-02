@@ -19,7 +19,7 @@ In addition to general applications of ModelingToolkit.jl, this tutotial also in
 
 Although many tutorials exist for the Julia programming language, none have the focus of this tutorial, and many are somewhat short on using effective pedagogical methods to make learning easy (or at least easier!) for the neophyte. The tutorials here seek to address these needs.
 
-Links to tutorial sections:
+## Links to tutorial sections:
 
 Part 1: Setup
 
