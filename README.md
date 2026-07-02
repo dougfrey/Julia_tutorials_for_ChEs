@@ -18,3 +18,10 @@ There are several software libraries in the Julia ecosystem that are built on to
 In addition to general applications of ModelingToolkit.jl, this tutotial also includes the use of Catalyst.jl and DataDrivenDiffEq.jl from the above table since symbolic-numeric computing is central to the operation of these two packages. More generally, since all of the above software packages have ModelingToolkit.jl as their foundation, familiarity with ModelingToolkit.jl greatly facilitates their use.  
 
 Although many tutorials exist for the Julia programming language, none have the focus of this tutorial, and many are somewhat short on using effective pedagogical methods to make learning easy (or at least easier!) for the neophyte. The tutorials here seek to address these needs.
+
+Links to tuktorial sections:
+
+Part 1: Setup
+  [Installing and Using Julia]
+  [Installing and using Jupyter]
+Part 2: Background Information
