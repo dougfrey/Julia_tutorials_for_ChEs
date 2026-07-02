@@ -15,11 +15,11 @@ There are several software libraries in the Julia ecosystem that are built on to
 |[PumasAI](https://pumas.ai/)| Pharmacometrics | Free for non-commercial use, a monthly fee otherwise |
 |[Dyad](https://juliahub.com/products/dyad)| A declarative, physical modeling language that compiles into ModelingToolkit.jl code and permits AI-assisted industrial modeling| Free for non-commercial use, a monthly fee otherwise |
 
-In addition to general applications of ModelingToolkit.jl, this tutotial also includes the use of Catalyst.jl and DataDrivenDiffEq.jl from the above table since symbolic-numeric computing is central to the operation of these two packages. More generally, since all of the above software packages have ModelingToolkit.jl as their foundation, familiarity with ModelingToolkit.jl greatly facilitates their use.  
+In addition to general applications of ModelingToolkit.jl, this tutotial also includes the specific use of Catalyst.jl and DataDrivenDiffEq.jl from the above table since symbolic-numeric computing is central to the operation of these two packages. More generally, since all of the above software packages have ModelingToolkit.jl as their foundation, familiarity with ModelingToolkit.jl greatly facilitates their use.  
 
 Although many tutorials exist for the Julia programming language, none have the focus of this tutorial, and many are somewhat short on using effective pedagogical methods to make learning easy (or at least easier!) for the neophyte. The tutorials here seek to address these needs.
 
-Links to tuktorial sections:
+Links to tutorial sections:
 
 Part 1: Setup
 
